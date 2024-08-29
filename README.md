@@ -4,6 +4,8 @@
 
 This to compare the Llama3 model when given query to produce Pandas Dataframe.
 
+Data is modified version (column name) from https://www.kaggle.com/datasets/gauravsrivastav2507/ehr-dataset
+
 ## Running Ollama
 
 ```shell
