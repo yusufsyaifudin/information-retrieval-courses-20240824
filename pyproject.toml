@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "tugas-information-retrieval"
+version = "0.1.0"
+description = ""
+authors = ["Yusuf <yusuf.syaifudin@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyter = "^1.0.0"
+tensorflow = "^2.17.0"
+tensorflow-hub = "^0.16.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
